@@ -4,6 +4,6 @@ $(document).ready(function () {
 		event.preventDefault();
 		let userInput = $('#userInput').val();
 		$('.userResults').append(userInput);
-		numberTo(userInput);
+		// numberTo(userInput);
 	});
 });

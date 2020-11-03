@@ -1,12 +1,12 @@
-## Mr Rogoger's Neighborhood
+## Movie Tickets Pricing
 
-\_Fun application program that takes a number from a user and returns a range of numbers from 0 to the users number with lines replaced.
+\This is an application that takes a users input on the type of movie that they'd like to see, the time and some other inputs to generate and return a price for the movie.
 
-By Austin Schrader\_
+By Austin Schrader & Danielle Thompson\_
 
 ## Description
 
-This project was created by Austin Schrader for the Friday project where we have to use arrays & looping. It was created using CSS, HTML, JavaScript, Git, GitHub, and Markdown, VSCode, Emmet, and Prettier.
+This project was created by Austin Schrader & Danielle Thompson week 4/Tuesday's project where we are practicing Event Delegation, Event Bubbling, TDD, and other OOP concepts. It was created using CSS, HTML, JavaScript, Git, GitHub, and Markdown, VSCode, Emmet, and Prettier.
 
 ## Setup
 
