@@ -5,3 +5,15 @@
 .movie-options {
 	margin-bottom: 20px;
 }
+
+#show-movies {
+	display: none;
+}
+#click-me {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+#click-me:hover {
+	text-decoration: underline;
+}
