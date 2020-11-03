@@ -1,7 +1,19 @@
-// Business Logic
+// Business Logic for MoviesList
 //MovieList = [];
+function MoviesList() {
+	this.titles = [];
+	this.currentId = 0;
+}
 
-//ticketPurchase,prototype.function();
+// Business Logic for Titles
+function Titles() {
+	this.movieName = movieName;
+	this.releaseDate = releaseDate;
+	this.requiredAge = requiredAge;
+	this.movieTimes = movieTimes;
+}
+
+//ticketPurchase.prototype.function();
 
 // If/Else Statement
 // Take these user inputs and put them through an if/else statement
